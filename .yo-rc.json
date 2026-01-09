@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.8",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "nav-sol",
+    "libraryId": "e92a495e-ed22-4afd-b65b-86234c63a166",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "nav-sol",
+    "solutionShortDescription": "nav-sol description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
